@@ -7,3 +7,5 @@
 Various hardware and software upgrades for Exiii Hackberry
 
 Link to Hackberry project: https://github.com/mission-arm/HACKberry
+
+In social networks: https://vk.com/club185727179
